@@ -1,0 +1,25 @@
+body {
+    background: #D5D8DC;
+}
+p {
+    color:blue;
+}
+p {
+    font-size: 30px;
+}
+p {
+     background: #AED6F1;
+}
+h4 {
+    color:orange;
+    font-weight:800;
+}
+.list {
+    color: red;
+  }
+#div {
+    color:green;
+}
+#name {
+    color:purple;
+}
